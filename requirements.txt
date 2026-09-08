@@ -4,3 +4,4 @@ scikit-learn
 catboost
 jupyter
 matplotlib
+scipy
