@@ -101,3 +101,7 @@ mlruns/
 
 results/predictions/*
 !results/predictions/.gitkeep
+
+models/
+
+artifacts/
